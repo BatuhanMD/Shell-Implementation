@@ -1,3 +1,12 @@
+/*
+21120205317 (Batuhan) - memshr,logout,xterm,shellog
+22120205073 (Beytullah) -main deki while döngüsü ve parent-child management
+21120205705 (Kaan) - Sonu "_addr" ile biten fonksiyonlar,kontrol işlemleri
+Dipnot= Geri kalan işlevler beraberce düşünülüp yazılmıştır.
+Programda fonksiyonların ismi ve anlaşılmayacak durumlar yanlarında özetlenmiştir.
+Chatgpt'den yardım alınan yerler= init_screen(),
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
