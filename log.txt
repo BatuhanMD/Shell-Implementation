@@ -1,0 +1,213 @@
+Komut: parent id :[907] Shell started at Sun Apr 30 14:17:03 2023
+ | Parent id: 907 | Child id: 2003 | Time: 30/04/2023, 14:17:3
+
+Komut: exit | Parent id: 907 | Child id: 2003 | Time: 30/04/2023, 14:17:7
+
+Komut: program exited at 30/04/2023, 14:17:7
+ | Parent id: 907 | Child id: 2003 | Time: 30/04/2023, 14:17:7
+
+Komut: parent id :[907] Shell started at Sun Apr 30 14:17:11 2023
+ | Parent id: 907 | Child id: 2087 | Time: 30/04/2023, 14:17:11
+
+Komut: cd asd | Parent id: 907 | Child id: 2087 | Time: 30/04/2023, 14:17:14
+
+Komut: process id :[2087], chidr error:
+ | Parent id: 907 | Child id: 2087 | Time: 30/04/2023, 14:17:14
+
+Komut: exit | Parent id: 907 | Child id: 2087 | Time: 30/04/2023, 14:17:34
+
+Komut: program exited at 30/04/2023, 14:17:34
+ | Parent id: 907 | Child id: 2087 | Time: 30/04/2023, 14:17:34
+
+Komut: parent id :[907] Shell started at Sun Apr 30 14:17:41 2023
+ | Parent id: 907 | Child id: 2201 | Time: 30/04/2023, 14:17:41
+
+Komut: cd abd | Parent id: 907 | Child id: 2201 | Time: 30/04/2023, 14:17:42
+
+Komut: process id :[2201], chidr error: | Parent id: 907 | Child id: 2201 | Time: 30/04/2023, 14:17:42
+
+Komut: exit | Parent id: 907 | Child id: 2201 | Time: 30/04/2023, 14:18:41
+
+Komut: program exited at 30/04/2023, 14:18:41
+ | Parent id: 907 | Child id: 2201 | Time: 30/04/2023, 14:18:41
+
+Komut: parent id :[907] Shell started at Sun Apr 30 14:18:46 2023
+ | Parent id: 907 | Child id: 2309 | Time: 30/04/2023, 14:18:46
+
+Komut: cd sad | Parent id: 907 | Child id: 2309 | Time: 30/04/2023, 14:18:49
+
+Komut: process id :[2309], chdir error: | Parent id: 907 | Child id: 2309 | Time: 30/04/2023, 14:18:49
+
+Komut: exit | Parent id: 907 | Child id: 2309 | Time: 30/04/2023, 14:29:31
+
+Komut: program exited at 30/04/2023, 14:29:31
+ | Parent id: 907 | Child id: 2309 | Time: 30/04/2023, 14:29:31
+
+Komut: parent id :[907] Shell started at Sun Apr 30 14:30:05 2023
+ | Parent id: 907 | Child id: 2618 | Time: 30/04/2023, 14:30:5
+
+Komut: dir | Parent id: 907 | Child id: 2618 | Time: 30/04/2023, 14:30:7
+
+Komut: dir | Parent id: 907 | Child id: 2618 | Time: 30/04/2023, 14:30:8
+
+Komut: dir | Parent id: 907 | Child id: 2618 | Time: 30/04/2023, 14:30:9
+
+Komut: dir | Parent id: 907 | Child id: 2618 | Time: 30/04/2023, 14:30:10
+
+Komut: cd asd | Parent id: 907 | Child id: 2618 | Time: 30/04/2023, 14:30:13
+
+Komut: process id :[2618], chdir error: | Parent id: 907 | Child id: 2618 | Time: 30/04/2023, 14:30:13
+
+Komut: exit | Parent id: 907 | Child id: 2618 | Time: 30/04/2023, 14:30:41
+
+Komut: program exited at 30/04/2023, 14:30:41
+ | Parent id: 907 | Child id: 2618 | Time: 30/04/2023, 14:30:41
+
+Komut: parent id :[3481] Shell started at Sun Apr 30 14:36:24 2023
+ | Parent id: 3481 | Child id: 3483 | Time: 30/04/2023, 14:36:24
+
+Komut: parent id :[3482] Shell started at Sun Apr 30 14:36:24 2023
+ | Parent id: 3482 | Child id: 3484 | Time: 30/04/2023, 14:36:24
+
+Komut: dir | Parent id: 3482 | Child id: 3484 | Time: 30/04/2023, 14:36:27
+
+Komut: hello | Parent id: 3482 | Child id: 3484 | Time: 30/04/2023, 14:36:30
+
+Komut: process id :[3546],  [ [ [ ] process is not valid! error:
+ | Parent id: 3484 | Child id: 3546 | Time: 30/04/2023, 14:36:30
+
+Komut: hello | Parent id: 3484 | Child id: 3546 | Time: 30/04/2023, 14:36:32
+
+Komut: process id :[3547],  [ [ [ ] process is not valid! error:
+ | Parent id: 3546 | Child id: 3547 | Time: 30/04/2023, 14:36:32
+
+Komut: dir | Parent id: 3546 | Child id: 3547 | Time: 30/04/2023, 14:36:33
+
+Komut: dir | Parent id: 3546 | Child id: 3547 | Time: 30/04/2023, 14:36:34
+
+Komut: dir | Parent id: 3546 | Child id: 3547 | Time: 30/04/2023, 14:36:34
+
+Komut: dir | Parent id: 3546 | Child id: 3547 | Time: 30/04/2023, 14:36:35
+
+Komut: dir | Parent id: 3546 | Child id: 3547 | Time: 30/04/2023, 14:36:35
+
+Komut: dir | Parent id: 3546 | Child id: 3547 | Time: 30/04/2023, 14:36:36
+
+Komut: dir | Parent id: 3546 | Child id: 3547 | Time: 30/04/2023, 14:36:36
+
+Komut: dir | Parent id: 3546 | Child id: 3547 | Time: 30/04/2023, 14:36:37
+
+Komut: cd asdkljnas | Parent id: 3546 | Child id: 3547 | Time: 30/04/2023, 14:36:41
+
+Komut: process id :[3547], chdir error: | Parent id: 3546 | Child id: 3547 | Time: 30/04/2023, 14:36:41
+
+Komut: exit | Parent id: 3546 | Child id: 3547 | Time: 30/04/2023, 14:36:47
+
+Komut: program exited at 30/04/2023, 14:36:47
+ | Parent id: 3546 | Child id: 3547 | Time: 30/04/2023, 14:36:47
+
+Komut: process id :[3546], 
+boy(giris)<=0 -> Bos komut! error:
+ | Parent id: 3484 | Child id: 3546 | Time: 30/04/2023, 14:36:59
+
+Komut: parent id :[3717] Shell started at Sun Apr 30 14:37:13 2023
+ | Parent id: 3716 | Child id: 3718 | Time: 30/04/2023, 14:37:13
+
+Komut: parent id :[3717] Shell started at Sun Apr 30 14:37:13 2023
+ | Parent id: 3717 | Child id: 3719 | Time: 30/04/2023, 14:37:13
+
+Komut: parent id :[3715] Shell started at Sun Apr 30 14:37:13 2023
+ | Parent id: 3715 | Child id: 3720 | Time: 30/04/2023, 14:37:13
+
+Komut: dir | Parent id: 3715 | Child id: 3720 | Time: 30/04/2023, 14:37:18
+
+Komut: echo hello | Parent id: 3715 | Child id: 3720 | Time: 30/04/2023, 14:37:22
+
+Komut: exit | Parent id: 3715 | Child id: 3720 | Time: 30/04/2023, 14:37:25
+
+Komut: program exited at 30/04/2023, 14:37:25
+ | Parent id: 3715 | Child id: 3720 | Time: 30/04/2023, 14:37:25
+
+Komut: exit | Parent id: 3717 | Child id: 3719 | Time: 30/04/2023, 14:37:27
+
+Komut: program exited at 30/04/2023, 14:37:27
+ | Parent id: 3717 | Child id: 3719 | Time: 30/04/2023, 14:37:27
+
+Komut: exit | Parent id: 3716 | Child id: 3718 | Time: 30/04/2023, 14:37:28
+
+Komut: program exited at 30/04/2023, 14:37:28
+ | Parent id: 3716 | Child id: 3718 | Time: 30/04/2023, 14:37:28
+
+Komut: parent id :[3917] Shell started at Sun Apr 30 14:41:15 2023
+ | Parent id: 3917 | Child id: 3920 | Time: 30/04/2023, 14:41:15
+
+Komut: parent id :[3919] Shell started at Sun Apr 30 14:41:15 2023
+ | Parent id: 3919 | Child id: 3921 | Time: 30/04/2023, 14:41:15
+
+Komut: parent id :[3918] Shell started at Sun Apr 30 14:41:15 2023
+ | Parent id: 3918 | Child id: 3922 | Time: 30/04/2023, 14:41:15
+
+Komut:  | Parent id: 3918 | Child id: 3922 | Time: 30/04/2023, 14:41:18
+
+Komut:  | Parent id: 3919 | Child id: 3921 | Time: 30/04/2023, 14:41:19
+
+Komut:  | Parent id: 3917 | Child id: 3920 | Time: 30/04/2023, 14:41:19
+
+Komut: parent id :[4024] Shell started at Sun Apr 30 14:41:40 2023
+ | Parent id: 4024 | Child id: 4026 | Time: 30/04/2023, 14:41:40
+
+Komut: parent id :[4023] Shell started at Sun Apr 30 14:41:40 2023
+ | Parent id: 4023 | Child id: 4027 | Time: 30/04/2023, 14:41:40
+
+Komut: parent id :[4025] Shell started at Sun Apr 30 14:41:41 2023
+ | Parent id: 4025 | Child id: 4028 | Time: 30/04/2023, 14:41:41
+
+Komut: dir | Parent id: 4025 | Child id: 4028 | Time: 30/04/2023, 14:41:41
+
+Komut: a | Parent id: 4023 | Child id: 4027 | Time: 30/04/2023, 14:41:44
+
+Komut: process id :[4080],  [ [] process is not valid! error:
+ | Parent id: 4027 | Child id: 4080 | Time: 30/04/2023, 14:41:44
+
+Komut: a | Parent id: 4024 | Child id: 4026 | Time: 30/04/2023, 14:41:49
+
+Komut: process id :[4098],  [ [] process is not valid! error:
+ | Parent id: 4026 | Child id: 4098 | Time: 30/04/2023, 14:41:49
+
+Komut: di | Parent id: 4026 | Child id: 4098 | Time: 30/04/2023, 14:41:50
+
+Komut: process id :[4099],  [ [] process is not valid! error:
+ | Parent id: 4098 | Child id: 4099 | Time: 30/04/2023, 14:41:50
+
+Komut: cd. | Parent id: 4098 | Child id: 4099 | Time: 30/04/2023, 14:41:51
+
+Komut: process id :[4099], chdir error: | Parent id: 4098 | Child id: 4099 | Time: 30/04/2023, 14:41:51
+
+Komut: dir | Parent id: 4098 | Child id: 4099 | Time: 30/04/2023, 14:41:53
+
+Komut: cd .. | Parent id: 4025 | Child id: 4028 | Time: 30/04/2023, 14:42:0
+
+Komut: exit | Parent id: 4098 | Child id: 4099 | Time: 30/04/2023, 14:42:4
+
+Komut: program exited at 30/04/2023, 14:42:4
+ | Parent id: 4098 | Child id: 4099 | Time: 30/04/2023, 14:42:4
+
+Komut: exit | Parent id: 4026 | Child id: 4098 | Time: 30/04/2023, 14:42:9
+
+Komut: program exited at 30/04/2023, 14:42:9
+ | Parent id: 4026 | Child id: 4098 | Time: 30/04/2023, 14:42:9
+
+Komut: exit | Parent id: 4024 | Child id: 4026 | Time: 30/04/2023, 14:42:11
+
+Komut: program exited at 30/04/2023, 14:42:11
+ | Parent id: 4024 | Child id: 4026 | Time: 30/04/2023, 14:42:11
+
+Komut: exit | Parent id: 4027 | Child id: 4080 | Time: 30/04/2023, 14:42:12
+
+Komut: program exited at 30/04/2023, 14:42:12
+ | Parent id: 4027 | Child id: 4080 | Time: 30/04/2023, 14:42:12
+
+Komut: exit | Parent id: 4023 | Child id: 4027 | Time: 30/04/2023, 14:42:12
+
+Komut: program exited at 30/04/2023, 14:42:12
+ | Parent id: 4023 | Child id: 4027 | Time: 30/04/2023, 14:42:12
